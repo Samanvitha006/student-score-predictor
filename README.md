@@ -84,6 +84,8 @@ git clone https://github.com/Samanvitha006/student-score-predictor.git
 
 # Move into the directory
 cd student-score-predictor
+Here is the link
+https://student-score-predictor-gptcytlbecvypjasbcqve4.streamlit.app/
 
 # Install dependencies
 pip install -r requirements.txt
